@@ -369,6 +369,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
+- **[Ghost QA](https://github.com/avivgerz-hue/ghost-qa)** - Autonomous headless-browser QA and native MCP tools for coding agents, with runtime, network, and layout checks and structured self-healing bug reports.
 - **[godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server)** - MCP server to provide golang packages and their information from pkg.go.dev
 - **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - **[Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server)** - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
@@ -527,11 +528,13 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
 - **[Unified Diff MCP Server](https://github.com/gorosun/unified-diff-mcp)** - Beautiful HTML and PNG diff visualization using diff2html, designed for filesystem edit_file dry-run output with high-performance Bun runtime.
 - **[Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity)** - MCP Server to control and interact with Unity3d Game Engine for game development
+- **[unslop](https://github.com/avivgerz-hue/unslop)** - Design-system MCP server and CLI for deterministic frontend anti-slop audits, WCAG contrast checks, Design DNA extraction, and Tailwind CSS v4 tokens.
 - **[User Feedback](https://github.com/mrexodia/user-feedback-mcp)** - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
 - **[User Prompt MCP](https://github.com/nazar256/user-prompt-mcp)** - An MCP server for Cursor that enables requesting user input during generation process.
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
 - **[Vibe Check](https://github.com/PV-Bhat/vibe-check-mcp-server)** - The definitive Vibe Coder's sanity check MCP server: Prevents cascading errors by calling a "Vibe-check" agent to ensure alignment and prevent scope creep
+- - **[vibe-shield](https://github.com/avivgerz-hue/vibe-shield)** - Static security scanner and MCP server for AI-generated codebases, including secret, authentication, injection, database, and agent-skill poisoning audits.
 - **[Wassenger](https://github.com/wassengerhq/mcp-wassenger)** - [Wassenger](https://wassenger.com) MCP server to chat, send messages and automate WhatsApp from any AI model client (free trial available).
 - **[Weather](https://github.com/TimLukaHorstmann/mcp-weather)** - Accurate weather forecasts via the AccuWeather API (free tier available).
 - **[KnowAir Weather](https://github.com/shuowang-ai/Weather-MCP)** – Real-time weather **and air quality** via the Caiyun Weather API (meteorology + AQI, CN & US standards).
